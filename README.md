@@ -2,7 +2,7 @@
 
 ### Transforming Raw Transaction Data into Actionable Banking Intelligence
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard_CreditCard.png)
 
 ---
 
