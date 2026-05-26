@@ -463,7 +463,7 @@ Build customer-level personalized reward and offer systems.
 
 # 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard_CreditCard.png)
 
 ---
 
@@ -472,7 +472,7 @@ Build customer-level personalized reward and offer systems.
 ```text
 credit-card-customer-segmentation/
 │
-├── Dashboard.png
+├── Dashboard_CreditCard.png
 ├── README.md
 ├── credit_card_analysis.twbx
 ├── SQLQuery1.sql
